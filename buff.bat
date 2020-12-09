@@ -1,3 +1,3 @@
 @echo off
-python %cd%\buff.py
+python %cd%\buff\buff.py
 pause
